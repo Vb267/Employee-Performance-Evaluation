@@ -1,0 +1,11 @@
+Employee ID,First Name,Last Name,Department,Position,Salary,Hire Date
+1,John,Smith,Sales,Sales Manager,"$80,000",01-01-2010
+2,Jane,Doe,Marketing,Marketing Manager,"$90,000",15-05-2012
+3,James,Johnson,Engineering,Senior Engineer,"$110,000",22-03-2008
+4,Sarah,Lee,Accounting,Accountant,"$60,000",10-09-2015
+5,Michael,Davis,Human Resources,HR Manager,"$100,000",30-11-2009
+6,Emily,Wong,Information Technology,IT Specialist,"$75,000",05-06-2016
+7,William,Garcia,Operations,Operations Manager,"$95,000",14-02-2011
+8,Elizabeth,Martinez,Customer Service,Customer Service Representative,"$50,000",18-07-2014
+9,David,Brown,Finance,Financial Analyst,"$85,000",02-04-2013
+10,Jennifer,Wilson,Research,Research Scientist,"$120,000",01-09-2007
